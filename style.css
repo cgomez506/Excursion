@@ -1,3 +1,8 @@
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 h1{
   text-align: center;
   color:white;
@@ -7,6 +12,7 @@ h1{
 
 body{
   background-color: black;
+  align-content: center;
 }
 
 a{
@@ -20,6 +26,7 @@ font-size: 20px;
  padding-top:20px;
   min-width: 100%;
   min-height: 100%;
+  position:fixed
 }
 
 .container{
@@ -28,7 +35,3 @@ font-size: 20px;
   overflow-x:hidden
 }
 
-html {
-  max-width: 100%;
-  overflow-x: hidden;
-}
