@@ -1,6 +1,7 @@
 html {
   max-width: 100%;
   overflow-x: hidden;
+  
 }
 
 h1{
@@ -12,18 +13,17 @@ h1{
 
 body{
   background-color: black;
-  align-content: center;
- 
+  text-align: center; 
 }
 
 a{
   color:aquamarine;
 font-size: 20px;
-  padding-left:600px;
+ 
 }
 
 .video{
- padding-left: 550px;
+ 
  padding-top:20px;
   min-width: 100%;
   min-height: 100%;
@@ -35,5 +35,6 @@ font-size: 20px;
   position: fixed;
   max-width: 700px;
   flex-wrap:wrap;
+  
 }
 
