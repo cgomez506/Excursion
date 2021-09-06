@@ -13,4 +13,11 @@ a{
   color:aquamarine;
 font-size: 16px;
   padding-left:600px;
+  padding-bottom:20px;
+}
+
+.video{
+ padding-left: 550px;
+  min-width: 100%;
+  min-height: 100%;
 }
