@@ -28,13 +28,12 @@ font-size: 20px;
   min-width: 100%;
   min-height: 100%;
   position:absolute;
+  padding-bottom: 20px;
   
 }
 
-.container{
-  position: fixed;
-  max-width: 700px;
-  flex-wrap:wrap;
-  
+.bottom h1{
+  padding-top:750px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:42px;
 }
-
